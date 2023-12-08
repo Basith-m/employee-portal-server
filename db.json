@@ -1,5 +1,35 @@
 {
-    "users":[
-        {"id":1, "name":"Admin", "email":"admin@demoapp.com","active":"1","password":"demoapp123"}
-    ]
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@demoapp.com",
+      "active": "1",
+      "password": "demoapp123"
+    },
+    {
+      "id": "2",
+      "name": "khaleel",
+      "email": "kh@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "3",
+      "name": "Akhil",
+      "email": "ak@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "4",
+      "name": "Rishal",
+      "email": "ri@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "5",
+      "name": "Anshad",
+      "email": "an@gmail.com",
+      "active": "0"
+    }
+  ]
 }
