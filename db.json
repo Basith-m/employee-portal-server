@@ -30,6 +30,42 @@
       "name": "Anshad",
       "email": "an@gmail.com",
       "active": "0"
+    },
+    {
+      "id": "6",
+      "name": "Maya",
+      "email": "maya@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "7",
+      "name": "Fathima",
+      "email": "fathima@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "8",
+      "name": "Rafi",
+      "email": "rafi@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "9",
+      "name": "salman",
+      "email": "salman@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "10",
+      "name": "Mubashir",
+      "email": "mubashir@mail.com",
+      "active": "0"
+    },
+    {
+      "id": "11",
+      "name": "Anas",
+      "email": "an@gmail.com",
+      "active": "1"
     }
   ]
 }
